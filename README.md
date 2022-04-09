@@ -14,11 +14,11 @@
   <img align="center" alt="Fernando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fernando-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Fernando-BOOTSTRAP" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="right" alt="Fernando-igf" height="300"  src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47koj0md8lez0nfg88kxekwkaf7d6osruvr6gbxftx&rid=giphy.gif&ct=g?width=676&height=676">
+  <img align="right" alt="Fernando-igf" height="150"  src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47koj0md8lez0nfg88kxekwkaf7d6osruvr6gbxftx&rid=giphy.gif&ct=g?width=676&height=676">
 </div>
   
   ##
  
 <div> 
   <a href="https://fernandomafra.ga/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-3c1a9c?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/fernando-mafra-885786231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
